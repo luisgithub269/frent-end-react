@@ -1,5 +1,10 @@
 # front-end-react
 
+Instalar MongoDB para ejecutar el ejemplo # en este caso se ejecuto para ubuntu 16.04
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
+
 Ejecucion localmente de React y Node
 
 $ git clone https://github.com/luisgithub269/frent-end-react.git

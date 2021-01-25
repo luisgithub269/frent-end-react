@@ -7,7 +7,9 @@ $ git clone https://github.com/luisgithub269/frent-end-react.git
 $ cd frent-end-react
 
 #ejecutar front-end 
-$ npm install
+
+$ npm install 
+
 $ npm start
 
 Esta es una demostracion front-end de una aplicaion retail la cual se puede integrar con APIs de pago tambien se puede crear un usuario 

@@ -2,7 +2,7 @@
 
 Ejecucion localmente de React y Node
 
-$ git clone git@github.com/luisgithub269/frent-end-react.git
+$ git clone https://github.com/luisgithub269/frent-end-react.git
 
 $ cd frent-end-react
 
